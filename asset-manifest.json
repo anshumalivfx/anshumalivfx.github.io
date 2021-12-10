@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/static/js/main.6342766e.chunk.js",
+    "main.js.map": "/static/js/main.6342766e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ff8b6edc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ff8b6edc.js.map",
+    "static/js/2.068ae533.chunk.js": "/static/js/2.068ae533.chunk.js",
+    "static/js/2.068ae533.chunk.js.map": "/static/js/2.068ae533.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.068ae533.chunk.js.LICENSE.txt": "/static/js/2.068ae533.chunk.js.LICENSE.txt",
+    "static/media/avatar.fdf12756.jpg": "/static/media/avatar.fdf12756.jpg",
+    "static/media/blog1.7ecbb78c.svg": "/static/media/blog1.7ecbb78c.svg",
+    "static/media/blog2.09939351.svg": "/static/media/blog2.09939351.svg",
+    "static/media/blog3.6291ee7c.svg": "/static/media/blog3.6291ee7c.svg",
+    "static/media/blog4.60aa6cec.svg": "/static/media/blog4.60aa6cec.svg",
+    "static/media/chatapp.a61f0165.png": "/static/media/chatapp.a61f0165.png",
+    "static/media/design.8ecb3043.svg": "/static/media/design.8ecb3043.svg",
+    "static/media/game-dev.20147858.svg": "/static/media/game-dev.20147858.svg",
+    "static/media/healthapp.be366c5d.png": "/static/media/healthapp.be366c5d.png",
+    "static/media/im2sketch.1d259988.png": "/static/media/im2sketch.1d259988.png",
+    "static/media/intelligence.11bd2ab2.svg": "/static/media/intelligence.11bd2ab2.svg",
+    "static/media/ml.4b3af2c7.png": "/static/media/ml.4b3af2c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff8b6edc.js",
+    "static/js/2.068ae533.chunk.js",
+    "static/js/main.6342766e.chunk.js"
+  ]
+}
